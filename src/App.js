@@ -85,7 +85,7 @@ const App = () => {
 
                 {
                     allTodos.length === 0 && (
-                        <p className="empty">There are no Todo's</p>
+                        <p className="empty">Det finns inget att göra, lägg till ovan </p>
                     )
                 }
             </div>
