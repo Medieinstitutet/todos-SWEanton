@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todos-SWEanton/static/css/main.199024ee.css",
+    "main.js": "/todos-SWEanton/static/js/main.502ff7f7.js",
+    "index.html": "/todos-SWEanton/index.html",
+    "main.199024ee.css.map": "/todos-SWEanton/static/css/main.199024ee.css.map",
+    "main.502ff7f7.js.map": "/todos-SWEanton/static/js/main.502ff7f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.199024ee.css",
+    "static/js/main.502ff7f7.js"
+  ]
+}
